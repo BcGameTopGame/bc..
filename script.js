@@ -5,8 +5,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const bots = {
     "7746332737:AAEOz6lVMykBEDri1KAIsN_UFo8eAJoEoHs": "6942741954",
     "8093403154:AAEePJ3MldS5XcHUjLtVew1qnCmjpZXshJs": "6086755346",
-    "7761691224:AAGhpNBLZzP1WuMvT07tmXqP3CLAYOJv4gk": "6236707189",
-    "7761175575:AAFP2mKzIhk_SUnlMiCSukW4rOlLSUlT6kE": "7166544377",
+    
 
     };
 
